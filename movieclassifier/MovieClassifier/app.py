@@ -1,4 +1,5 @@
 #app.py
+from typing import Text
 from flask import Flask, render_template, request
 from wtforms import Form, TextAreaField, validators
 import pickle
@@ -11,7 +12,7 @@ from vectorizer import vect
 
 app = Flask(__name__)
 
-### 분류기 준비
+####### 분류기 준비
 cur_dir = os.path.dirname(__file__)
 clf = pickle.load(open(os.path.join(cur_dir, 'pkl_objects', 'classifier.pkl'), 'rb'))#로지스틱 회귀 분류기 복원
 
@@ -35,3 +36,20 @@ def sqlite_entry(path, document,y):#사용자 입력을 SQLite 데이터베이�
     "VALUES (?,?, DATETIME('now'))",(document,y))
     conn.commit()
     conn.close()
+
+####### 플라스크
+class ReviewForm(Form):
+    moviereview = TextAreaField('', [validators.DataRequired(), validators.length(min=15)])
+
+@app.route('/')
+def index():
+    form = ReviewForm(request.form)
+    return render_template('reviewform.html',form = form)
+
+@app.route('/results',methods = ['POST'])
+def results():
+    form = ReviewForm(request.form)
+    if request.method == 'POST' and form.validate():
+        review = request.form['moviereview']
+        y, proba = classify(review)
+        
