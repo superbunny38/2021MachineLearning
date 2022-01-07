@@ -1,8 +1,8 @@
-# MachineLearningTextbook
+#MachineLearning
 출처: 
 - 머신러닝 교과서 with 파이썬, 사이킷런, 텐서플로 
 - 기계학습입문(SKKU, 김재광 교수님)
-- CSS229
+- CS229
 
 앞으로 공부할 책들:
 
