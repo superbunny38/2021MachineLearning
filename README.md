@@ -4,4 +4,5 @@
 - 기계학습입문(SKKU, 김재광 교수님)
 - CS229
 - Materials/Linear Algebra: https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw
+- Materials/Probability Theory: MIT
 - seminar: Data eXperienc Lab (SKKU 박은일 교수님) 겨울방학 Machine Learning 세미나
