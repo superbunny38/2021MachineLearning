@@ -12,6 +12,7 @@
   - Locally Weighted & Logistic Regression
   - Perceptron & Generalized Linear Model
   - GDA & Naive Bayes
+  - Support Vector Machines
   - Decision Trees and Ensemble Methods
 - Materials/Linear Algebra: https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw
 - Materials/Probability Theory: MIT
