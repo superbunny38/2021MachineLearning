@@ -4,6 +4,7 @@
 - Textbook of Machine Learning
 - 혼자 공부하는 머신러닝 + 딥러닝
 - 기계학습입문(SKKU, 김재광 교수님)
+- Coursera: Machine Learning (Prof Andrew Ng)
 - CS229
   - Linear Algebra
   - Probability Theory
