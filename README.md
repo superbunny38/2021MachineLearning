@@ -13,6 +13,7 @@
   - Perceptron & Generalized Linear Model
   - GDA & Naive Bayes
   - Support Vector Machines
+  - Kernels
   - Decision Trees and Ensemble Methods
 - Materials/Linear Algebra: https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw
 - Materials/Probability Theory: MIT
