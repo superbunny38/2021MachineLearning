@@ -15,6 +15,7 @@
   - Support Vector Machines
   - Kernels
   - Data Splits, Models & Cross-Validation
+  - Approx/Estimation Error & ERM
   - Decision Trees and Ensemble Methods
 - Materials/Linear Algebra: https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw
 - Materials/Probability Theory: MIT
