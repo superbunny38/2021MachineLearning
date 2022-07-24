@@ -19,6 +19,7 @@
   - Decision Trees and Ensemble Methods
   - Neural Networks
   - Backprop & Improving Neural Networks
+  - Debugging ML Models and Error Analysis
 - Materials/Linear Algebra: https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw
 - Materials/Probability Theory: MIT
 - seminar: Data eXperience Lab (SKKU 박은일 교수님) 겨울방학 Machine Learning 세미나
