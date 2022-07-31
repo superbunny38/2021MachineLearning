@@ -8,4 +8,4 @@
 
 ## Learning Status (Problems)
 - Problem Set 1 
-  - #1 Linear Classifiers (logistic regression and GDA) (2022.07.31)
+  - #1 Linear Classifiers (Logistic Regression and Gaussian Discriminant Analysis) (2022.07.31)
