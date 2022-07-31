@@ -7,4 +7,5 @@
 
 
 ## Learning Status (Problems)
-- Problem Set 1 #1 (2022.07.31)
+- Problem Set 1 
+  - #1 (2022.07.31)
