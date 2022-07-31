@@ -2,5 +2,9 @@
 
 (All the rights are entitled to Andrew Ng, and Stanford.)
 
-## Learning Status
+## Learning Status (Lecture Notes)
 - Lecture Notes 1 (2022.07.29)
+
+
+## Learning Status (Problems)
+- Problem Set 1 #1 (2022.07.31)
