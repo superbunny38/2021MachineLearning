@@ -6,6 +6,6 @@
 - Lecture Notes 1 (2022.07.29)
 - Lecture Notes 2 (2022.07.31)
 
-## Learning Status (Problems)
+## Solving Status (Problems)
 - Problem Set 1 
   - #1 Linear Classifiers (Logistic Regression and Gaussian Discriminant Analysis) (2022.07.31)
