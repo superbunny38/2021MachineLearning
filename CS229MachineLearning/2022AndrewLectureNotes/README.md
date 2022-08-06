@@ -10,6 +10,6 @@
 - Problem Set 1 
   - #1 Linear Classifiers (Logistic Regression and Gaussian Discriminant Analysis) (2022.07.31)
   - #2 Incomplete, Positive-Only Labels (2022.08.03)
-  
+  - #3 Poisson Regression (2022.08.06)
   
 boxcox가 뭐지..?
