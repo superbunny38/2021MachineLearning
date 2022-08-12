@@ -11,6 +11,6 @@
   - #1 Linear Classifiers (Logistic Regression and Gaussian Discriminant Analysis) (2022.07.31)
   - #2 Incomplete, Positive-Only Labels (2022.08.03)
   - #3 Poisson Regression (2022.08.06)
-  - #4 Convexity if Generalized Linear Models (2022.08.12)
+  - #4 Convexity of Generalized Linear Models (2022.08.12)
   
 boxcox가 뭐지..?
