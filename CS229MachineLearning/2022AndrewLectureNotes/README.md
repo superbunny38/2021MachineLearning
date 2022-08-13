@@ -12,5 +12,6 @@
   - #2 Incomplete, Positive-Only Labels (2022.08.03)
   - #3 Poisson Regression (2022.08.06)
   - #4 Convexity of Generalized Linear Models (2022.08.12)
+  - #5 Locally Weighted Linear Regression (2022.08.13)
   
 boxcox가 뭐지..?
