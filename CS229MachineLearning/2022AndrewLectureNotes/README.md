@@ -16,6 +16,6 @@
   - #5 Locally Weighted Linear Regression (2022.08.13)
   
 - Problem Set 2
-  - #1 Logistic Regression: Training stability
+  - #1 Logistic Regression: Training stability (2022.08.14)
   
 boxcox가 뭐지..?
