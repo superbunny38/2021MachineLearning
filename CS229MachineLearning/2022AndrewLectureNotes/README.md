@@ -15,4 +15,7 @@
   - #4 Convexity of Generalized Linear Models (2022.08.12)
   - #5 Locally Weighted Linear Regression (2022.08.13)
   
+- Problem Set 2
+  - #1 Logistic Regression: Training stability
+  
 boxcox가 뭐지..?
