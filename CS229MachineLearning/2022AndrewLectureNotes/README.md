@@ -17,5 +17,6 @@
   
 - Problem Set 2
   - #1 Logistic Regression: Training stability (2022.08.14)
+  - #2 Model Calibration (2022.08.24)
   
 boxcox가 뭐지..?
