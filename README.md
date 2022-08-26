@@ -21,6 +21,8 @@
   - Backprop & Improving Neural Networks
   - Debugging ML Models and Error Analysis
   - Expectation-Maximization Algorithms
+  - EM Algorithm & Factor Analysis
+  
 - **Andrew Ng Problem Sets**:
   - Set1 (2022/07/29~2022/08/14)
   - Set2 (2022/08/14~)
