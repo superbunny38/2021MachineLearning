@@ -20,5 +20,6 @@
   - #2 Model Calibration (2022.08.24)
   - #3 Bayesian Interpretation of Regularization (2022.08.26)
   - #4 Constructing Kernels (2022.09.01)
+  - #5 Kernelizing the Perceptron
   
 boxcox가 뭐지..?
