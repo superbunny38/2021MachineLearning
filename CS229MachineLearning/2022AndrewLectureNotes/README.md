@@ -6,6 +6,7 @@
 - Lecture Notes 1 (2022.07.29)
 - Lecture Notes 2 (2022.07.31)
 - Lecture Notes 3 (2022.08.14)
+- Lecture Notes 4 (2022.09.14)
 
 ## Solving Status (Problems)
 - Problem Set 1 
