@@ -23,5 +23,8 @@
   - #4 Constructing Kernels (2022.09.01)
   - #5 Kernelizing the Perceptron (2022.09.02)
   - #6 Spam Classification (2022.09.15)
+ 
+ - Problem Set 3
+  - #1 A Simple Neural Network (2022.09.16)
   
 boxcox가 뭐지..?
