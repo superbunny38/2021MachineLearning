@@ -7,6 +7,7 @@
 - Lecture Notes 2 (2022.07.31)
 - Lecture Notes 3 (2022.08.14)
 - Lecture Notes: Deep Learning (2022.11.02)
+- Lecture Notes: Backpropagation (2022.11.04)
 - Lecture Notes 4 (2022.09.14)
 
 ## Solving Status (Problems)
