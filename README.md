@@ -25,6 +25,7 @@
   
 - **Andrew Ng Problem Sets**:
   - Set1 (2022/07/29~2022/08/14)
-  - Set2 (2022/08/14~)
+  - Set2 (2022/08/14~2022/09/16)
+  - Set3 (2022/11/06~)
 - Materials/Linear Algebra: https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw
 - Materials/Probability Theory: MIT
