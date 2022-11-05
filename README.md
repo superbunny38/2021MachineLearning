@@ -24,6 +24,7 @@
   - EM Algorithm & Factor Analysis
   
 - **Andrew Ng Problem Sets**:
+  - Set0 (2022/01)
   - Set1 (2022/07/29~2022/08/14)
   - Set2 (2022/08/14~2022/09/16)
   - Set3 (2022/11/06~)
