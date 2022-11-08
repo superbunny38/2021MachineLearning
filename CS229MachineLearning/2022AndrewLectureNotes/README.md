@@ -28,5 +28,6 @@
  
 - Problem Set 3
   - #1 A Simple Neural Network (2022.09.16)
+  - #2 KL divergence and Maximum Likelihood (2022.11.08)
 
 boxcox가 뭐지..?
